@@ -3,7 +3,7 @@ How to Log In Your Existing Xfinity Account Easily? 🔐📶
 
 Accessing your **existing Xfinity login account** is crucial for managing your subscriptions, checking bills, streaming content, and troubleshooting your services. Whether you’re a new user or have had an account for some time, knowing how to log in your existing Xfinity account easily ensures a smooth experience without frustration. 🚀
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
